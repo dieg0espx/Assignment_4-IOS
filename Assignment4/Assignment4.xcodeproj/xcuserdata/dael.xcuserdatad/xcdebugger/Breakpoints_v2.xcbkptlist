@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5390091C-7E47-4A14-8756-3331030C6B50"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8CD1547B-468D-454E-B0ED-B791E5743ECF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment4/VancouverViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44212982-F2FB-4799-A815-36C25D11C361"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment4/CityViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "CityViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "44212982-F2FB-4799-A815-36C25D11C361 - 32e696a40467a57d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment4.CityViewController.city.getter : Swift.Optional&lt;Assignment4.City&gt;"
+                  moduleName = "Assignment4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dael/Desktop/Assignment4/Assignment4/CityViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "233">
+               </Location>
+               <Location
+                  uuid = "44212982-F2FB-4799-A815-36C25D11C361 - 9a75bcc985fa4561"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment4.CityViewController.city.setter : Swift.Optional&lt;Assignment4.City&gt;"
+                  moduleName = "Assignment4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dael/Desktop/Assignment4/Assignment4/CityViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "341">
+               </Location>
+               <Location
+                  uuid = "44212982-F2FB-4799-A815-36C25D11C361 - 75fed8d273099d72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment4.CityViewController.city.modify : Swift.Optional&lt;Assignment4.City&gt;"
+                  moduleName = "Assignment4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dael/Desktop/Assignment4/Assignment4/CityViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "44212982-F2FB-4799-A815-36C25D11C361 - c826c50b9187abc1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment4.CityViewController.city.modify : Swift.Optional&lt;Assignment4.City&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Assignment4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dael/Desktop/Assignment4/Assignment4/CityViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "44212982-F2FB-4799-A815-36C25D11C361 - 6a303df4e3953cb5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment4.CityViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Assignment4.CityViewController"
+                  moduleName = "Assignment4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dael/Desktop/Assignment4/Assignment4/CityViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "146">
+               </Location>
+               <Location
+                  uuid = "44212982-F2FB-4799-A815-36C25D11C361 - 36d076529aa272b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment4.CityViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Assignment4.CityViewController&gt;"
+                  moduleName = "Assignment4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dael/Desktop/Assignment4/Assignment4/CityViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "102">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
